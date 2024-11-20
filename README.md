@@ -1,8 +1,8 @@
 
-# Smart Real Estate AI Finder with Text, Image and Video Search
+# Smart Real Estate Finder AI with Text, Image and Video Search
 
 ## Overview
-The **Smart Real Estate AI Finder** is an innovative application that allows users to find properties based on various inputs, including text queries, images, videos or a combination of them. The application utilizes advanced AI models for image and video processing and ChromaDB as the vector search database ensuring accurate and relevant results.
+The **Smart Real Estate Finder AI** is an innovative application that allows users to find properties based on various inputs, including text queries, images, videos or a combination of them. The application utilizes advanced AI models for image and video processing and ChromaDB as the vector search database ensuring accurate and relevant results.
 
 ## Demo Link
 The Demo for this project can be found [here](https://youtu.be/TsxPzFe4fMc).
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/rudye223/Smart-Real-Estate-AI-Finder-With-ChromaDB
+git clone https://github.com/rudye223/Smart-Real-Estate-Finder-AI-With-ChromaDB
 cd  Smart-Real-Estate-Finder-With-ChromaDB
 
 ```
