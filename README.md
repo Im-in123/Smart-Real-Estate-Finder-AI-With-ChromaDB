@@ -8,7 +8,7 @@ The **Smart Real Estate Finder AI** is an innovative application that allows use
 
 📺 Watch a demo of the App:  **👉 (https://youtu.be/luS8dMIuip8)**
 
-Local copy of demo video(demo.mp4) also exists at project root folder [here](demo.mp4).
+Local copy of demo video(demo.mp4) also exists at project root folder [here](Demo.mp4).
  
 
 
