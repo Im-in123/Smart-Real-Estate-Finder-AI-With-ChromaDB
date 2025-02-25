@@ -1,4 +1,7 @@
 # Quick fix for RuntimeError: Your system has an unsupported version of sqlite3. Chroma  requires sqlite3 >= 3.35.0.
+# sudo apt update
+# sudo apt install libgl1-mesa-glx
+#and then uncomment the lines below
 # import pysqlite3
 # import sys
 # sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
