@@ -4,8 +4,12 @@
 ## Overview
 The **Smart Real Estate Finder AI** is an innovative application that allows users to find properties based on various inputs, including text queries, images, videos or a combination of them. The application utilizes advanced AI models for image and video processing and ChromaDB as the vector search database ensuring accurate and relevant results.
 
-## Demo Link
-The Demo for this project can be found [here](Demo.mp4).
+## Video Demonstration
+
+📺 Watch a demo of the App:  **👉 (https://youtu.be/luS8dMIuip8)**
+
+Local copy of demo video(demo.mp4) also exists at project root folder [here](demo.mp4).
+ 
 
 
 ## Features
